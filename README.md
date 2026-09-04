@@ -1,30 +1,34 @@
-Hi there, I'm Kingtheworldsayhi 👋
+<div align="center">
 
-```text
-┌──(security🎯ethical-hacker)─[~]
-└─\$ cat about_me.txt
-> Python Developer & Cyber Security Enthusiast 🛡️
-> Focus: Web Application Security | Pentesting | Security Automation
-> Learning: Python (OSCP) & OWASP Top 10 | Practicing on PortSwigger & TryHackMe
-```
+# ⚡ Kingtheworldsayhipy
 
-### 🛠️ Tech Stack & Tools
+### Python Developer • Cybersecurity • Machine Learning • Automation
 
-🟩 **Languages & Core:**
-![Python](https://shields.io)
-![Bash](https://shields.io)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+with+Python.;Exploring+Cybersecurity.;Learning+Machine+Learning.;Automating+the+web%2C+one+script+at+a+time." />
 
-🤖 **AI & Data Science:**
-![Machine Learning](https://shields.io)
+<br>
 
-💀 **Cyber Security:**
-![Linux](https://shields.io)
-![Kali Linux](https://shields.io)
-![Burp Suite](https://shields.io)
+<img src="https://skillicons.dev/icons?i=python,bash,linux,kali,html,css,js,tensorflow,pytorch" />
 
-### 📊 GitHub Activity Cyber Stats
+<br><br>
 
-<p align="center">
-<img height="180" src="https://vercel.app" />
-<img height="180" src="https://vercel.app" />
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Kingtheworldsayhipy)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/927040046324924455)
+
+</div>
+
+---
+
+## 🧠 About Me
+
+```python
+class Kingtheworldsayhipy:
+
+    focus = [
+        "Python",
+        "Cybersecurity",
+        "Machine Learning",
+        "Web Automation"
+    ]
+
+    mindset = "Learn → Build → Break → Understand → Improve"
