@@ -1,4 +1,9 @@
-# Hi there, I'm <Kingtheworldsayhi> 👋
+# Hi there, I'm Kingtheworldsayhi 👋
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
+</p>
+
 
 ```text
 ┌──(security㉿ethical-hacker)-[~]
