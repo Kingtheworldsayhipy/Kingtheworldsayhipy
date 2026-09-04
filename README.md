@@ -1,7 +1,8 @@
 # Hi there, I'm Kingtheworldsayhi 👋
 
-<p align="center">
-  <img src="https://komarev.com" alt="Profile Views" />
+<p align="left">
+  <img src="https://shields.io" alt="Views" /> 
+  <img src="https://komarev.com" alt="Kingtheworldsayhi" />
 </p>
 
 
