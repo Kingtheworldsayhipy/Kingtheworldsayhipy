@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Kingtheworldsayhipy
+# ⚡ Kingtheworldsayhi
 
 ### Python Developer • Cybersecurity • Machine Learning • Automation
 
